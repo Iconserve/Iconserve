@@ -1,0 +1,1 @@
+﻿{ "representative": { "logo": { "logo_256": "", "logo_1024": "", "logo_svg": "" }, "media": { "steemit": "", "twitter": "", "youtube": "", "facebook": "", "github": "", "reddit": "", "keybase": "", "telegram": "", "wechat": "" } }, "server": { "location": { "country": "Germany", "city": "Berlin" }, "server_type": "cloud", "api_endpoint": "85.214.207.194:9000" } }
